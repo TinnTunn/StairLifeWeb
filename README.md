@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StairLifeWeb - Project Management & Payment Platform
 
 ## 📋 Deskripsi Project
@@ -323,3 +324,7 @@ MIT License - Feel free to use this project!
 ---
 
 **Last Updated:** May 10, 2026
+=======
+# StairLifeWeb
+StairsLife - Step Up Your Life
+>>>>>>> d1915ee255dd3be928112fa722ef6c3a24fe94a8
